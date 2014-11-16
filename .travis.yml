@@ -15,7 +15,7 @@ before_script:
   - composer install
 
 script:
-  - mkdir -p build/logs
+  - mkdir -p build/cov
   - php vendor/bin/phpunit -c phpunit.xml.dist
 
 script:
