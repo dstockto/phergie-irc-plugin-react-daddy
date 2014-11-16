@@ -4,6 +4,7 @@ A plugin for [Phergie](http://github.com/phergie/phergie-irc-bot-react/) to
 parse commands issued to the bot.
 
 [![Build Status](https://secure.travis-ci.org/dstockto/phergie-irc-plugin-react-daddy.png?branch=master)](http://travis-ci.org/dstockto/phergie-irc-plugin-react-daddy)
+[![Coverage Status](https://img.shields.io/coveralls/dstockto/phergie-irc-plugin-react-daddy.svg)](https://coveralls.io/r/dstockto/phergie-irc-plugin-react-daddy)
 
 ## Install
 
