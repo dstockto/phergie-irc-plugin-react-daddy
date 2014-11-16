@@ -13,9 +13,9 @@ matrix:
 before_script:
   - composer self-update
   - composer install
+  - mkdir -p build/cov
 
 script:
-  - mkdir -p build/cov
   - php vendor/bin/phpunit -c phpunit.xml.dist
 
 script:
