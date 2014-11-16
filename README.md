@@ -1,7 +1,6 @@
-# phergie/phergie-irc-plugin-react-command
+# phergie/phergie-irc-plugin-react-daddy
 
-A plugin for [Phergie](http://github.com/phergie/phergie-irc-bot-react/) to
-parse commands issued to the bot.
+A plugin for [Phergie](http://github.com/phergie/phergie-irc-bot-react/) to react to phrases like "Who's your *?"
 
 [![Build Status](https://secure.travis-ci.org/dstockto/phergie-irc-plugin-react-daddy.png?branch=master)](http://travis-ci.org/dstockto/phergie-irc-plugin-react-daddy)
 [![Coverage Status](https://coveralls.io/repos/dstockto/phergie-irc-plugin-react-daddy/badge.png)](https://coveralls.io/r/dstockto/phergie-irc-plugin-react-daddy)
