@@ -4,6 +4,7 @@ A plugin for [Phergie](http://github.com/phergie/phergie-irc-bot-react/) to reac
 
 [![Build Status](https://secure.travis-ci.org/dstockto/phergie-irc-plugin-react-daddy.png?branch=master)](http://travis-ci.org/dstockto/phergie-irc-plugin-react-daddy)
 [![Coverage Status](https://coveralls.io/repos/dstockto/phergie-irc-plugin-react-daddy/badge.png)](https://coveralls.io/r/dstockto/phergie-irc-plugin-react-daddy)
+[![Code Climate](https://codeclimate.com/github/dstockto/phergie-irc-plugin-react-daddy/badges/gpa.svg)](https://codeclimate.com/github/dstockto/phergie-irc-plugin-react-daddy)
 
 ## Install
 
