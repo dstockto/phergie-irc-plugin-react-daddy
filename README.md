@@ -23,7 +23,7 @@ See Phergie documentation for more information on installing plugins.
 ## Configuration
 
 ```php
-new \Phergie\Irc\Plugin\React\Daddy\Plugin())
+new \Phergie\Irc\Plugin\React\Daddy\Plugin()
 ```
 
 ### Usage
